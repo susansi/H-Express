@@ -255,7 +255,7 @@ button
     outline: none;
     cursor:pointer;
 }
-.signbtn
+button
 {
     background-color: darkslateblue;
 }
